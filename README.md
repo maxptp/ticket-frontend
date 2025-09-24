@@ -24,7 +24,7 @@ Supports ticket management, client-side validation, and integration with the bac
 ### 1. Environment Variables (`.env`)
 
 ```env
-NEXT_PUBLIC_API_BASE_URL=http://localhost:3000
+NEXT_PUBLIC_API_BASE_URL=http://localhost:10000
 ```
 
 _(Point this to your backend NestJS API)_
